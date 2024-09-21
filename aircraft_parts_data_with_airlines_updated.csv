@@ -1,0 +1,97 @@
+Aircraft Number,Airline,Aircraft Type,Part Name,Function,Current Condition,Usage Hours,Last Maintenance Date,Risk of Failure,Predicted Damage,Predicted Time to Failure (hours)
+AC-001,Qatar Airways,Bombardier CRJ,Engine 1,Control,Good,2713,21:03.9,0.158189199,0,420.9054004
+AC-002,Qatar Airways,Boeing 777,Engine 2,Safety,Fair,3672,21:03.9,0.285705262,0,357.1473688
+AC-003,American Airlines,Boeing 737,Combustor 1,Navigation,Fair,3866,21:03.9,0.896676857,0,51.66157144
+AC-004,American Airlines,Boeing 737,Combustor 2,Propulsion,Good,8344,21:03.9,0.037151357,0,481.4243217
+AC-005,Singapore Airlines,Airbus A320,Turbine 1,Propulsion,Poor,8607,21:03.9,0.527490907,1,236.2545467
+AC-006,Qatar Airways,Airbus A380,Turbine 2,Propulsion,Poor,6493,21:03.9,0.926806958,1,36.59652091
+AC-007,British Airways,Boeing 737,Wing Flap Left,Fuel,Fair,1604,21:03.9,0.008498121,0,495.7509396
+AC-008,Qatar Airways,Boeing 747,Wing Flap Right,Navigation,Poor,5642,21:03.9,0.645792616,1,177.1036919
+AC-009,Singapore Airlines,Airbus A380,Landing Gear Front,Safety,Good,5041,21:03.9,0.032021298,0,483.9893509
+AC-010,Etihad,Boeing 777,Landing Gear Rear,Fuel,Good,5108,21:03.9,0.056741949,0,471.6290257
+AC-011,Singapore Airlines,Boeing 777,Avionics System,Fuel,Good,9370,21:03.9,0.89724409,0,51.37795491
+AC-012,Vistara,Airbus A380,Fuel System,Propulsion,Poor,6297,21:03.9,0.905738912,1,47.13054376
+AC-013,British Airways,Airbus A320,Hydraulic System,Control,Good,2297,21:03.9,0.24082894,0,379.5855298
+AC-014,American Airlines,Boeing 737,Electrical System,Support,Poor,2325,21:03.9,0.906114501,1,46.94274932
+AC-015,Spice Jet,Airbus A320,Navigation System,Safety,Good,4775,21:03.9,0.464777378,0,267.6113108
+AC-016,Spice Jet,Boeing 737,Airframe,Fuel,Fair,5887,21:03.9,0.989152318,0,5.42384117
+AC-017,Vistara,Bombardier CRJ,Nose Cone,Propulsion,Poor,4763,21:03.9,0.13355652,1,433.2217398
+AC-018,Air India,Bombardier CRJ,Rudder,Fuel,Fair,9111,21:03.9,0.182670578,0,408.664711
+AC-019,Air India,Boeing 747,Elevator,Propulsion,Fair,3570,21:03.9,0.894580019,0,52.70999042
+AC-020,Spice Jet,Airbus A320,Aileron Left,Propulsion,Fair,386,21:03.9,0.256872877,0,371.5635613
+AC-021,British Airways,ATR 72,Aileron Right,Navigation,Fair,2403,21:03.9,0.795199953,0,102.4000233
+AC-022,Indigo,Embraer e175,Spoilers,Support,Good,3052,21:03.9,0.733625703,0,133.1871486
+AC-023,Air India,Bombardier CRJ,Tail Fin,Control,Good,9389,21:03.9,0.484899699,0,257.5501503
+AC-024,Etihad,ATR 72,Fuselage,Fuel,Fair,3564,21:03.9,0.888556751,0,55.72162459
+AC-025,Emirates,Airbus A380,Engine 1,Fuel,Fair,6785,21:03.9,0.3672694,0,316.3652999
+AC-026,American Airlines,ATR 72,Engine 2,Propulsion,Good,4078,21:03.9,0.756765532,0,121.6172342
+AC-027,Air Asia,Boeing 747,Combustor 1,Fuel,Good,7538,21:03.9,0.008957204,0,495.5213979
+AC-028,Qatar Airways,Boeing 747,Combustor 2,Control,Good,3118,21:03.9,0.134995571,0,432.5022145
+AC-029,American Airlines,Airbus A320,Turbine 1,Control,Fair,9010,21:03.9,0.98530259,0,7.348705041
+AC-030,Spice Jet,Airbus A380,Turbine 2,Propulsion,Good,6934,21:03.9,0.512552077,0,243.7239614
+AC-031,Emirates,ATR 72,Wing Flap Left,Navigation,Fair,2451,21:03.9,0.634159678,0,182.9201612
+AC-032,Air India,Bombardier CRJ,Wing Flap Right,Control,Good,4620,21:03.9,0.764544439,0,117.7277806
+AC-033,Etihad,Boeing 777,Landing Gear Front,Control,Good,4860,21:03.9,0.876179449,0,61.91027529
+AC-034,Qatar Airways,Boeing 737,Landing Gear Rear,Support,Poor,3067,21:03.9,0.933231578,1,33.38421114
+AC-035,American Airlines,Boeing 747,Avionics System,Safety,Fair,9297,21:03.9,0.016061307,0,491.9693467
+AC-036,Vistara,Embraer e175,Fuel System,Control,Fair,4563,21:03.9,0.359409282,0,320.2953591
+AC-037,American Airlines,Airbus A320,Hydraulic System,Navigation,Poor,1754,21:03.9,0.383858353,1,308.0708237
+AC-038,Singapore Airlines,Boeing 737,Electrical System,Fuel,Good,3421,21:03.9,0.689479689,0,155.2601556
+AC-039,Emirates,Bombardier CRJ,Navigation System,Fuel,Fair,1359,21:03.9,0.239565288,0,380.2173562
+AC-040,Singapore Airlines,ATR 72,Airframe,Control,Poor,9125,21:03.9,0.763378687,1,118.3106565
+AC-041,Singapore Airlines,Boeing 737,Nose Cone,Support,Fair,8457,21:03.9,0.250850636,0,374.5746821
+AC-042,Emirates,ATR 72,Rudder,Control,Good,435,21:03.9,0.324192971,0,337.9035146
+AC-043,Etihad,ATR 72,Elevator,Navigation,Good,9080,21:03.9,0.904736229,0,47.63188542
+AC-044,Air India,Airbus A320,Aileron Left,Support,Poor,6109,21:03.9,0.356856712,1,321.5716441
+AC-045,Spice Jet,Bombardier CRJ,Aileron Right,Safety,Fair,7486,21:03.9,0.316804815,0,341.5975927
+AC-046,Vistara,ATR 72,Spoilers,Propulsion,Good,6669,21:03.9,0.091746058,0,454.126971
+AC-047,Air India,Boeing 747,Tail Fin,Navigation,Fair,9152,21:03.9,0.816136039,0,91.93198034
+AC-048,Spice Jet,ATR 72,Fuselage,Propulsion,Fair,5575,21:03.9,0.316807431,0,341.5962846
+AC-049,American Airlines,Embraer e175,Engine 1,Navigation,Good,7296,21:03.9,0.545203797,0,227.3981017
+AC-050,Vistara,Boeing 777,Engine 2,Control,Good,1406,21:03.9,0.515622385,0,242.1888076
+AC-051,American Airlines,Bombardier CRJ,Combustor 1,Propulsion,Good,2199,21:03.9,0.906713404,0,46.64329778
+AC-052,Qatar Airways,Airbus A380,Combustor 2,Safety,Good,8935,21:03.9,0.901890511,0,49.0547446
+AC-053,Air Asia,Embraer e175,Turbine 1,Safety,Good,6120,21:03.9,0.473575712,0,263.2121442
+AC-054,Spice Jet,Boeing 747,Turbine 2,Safety,Good,5296,21:03.9,0.873088963,0,63.45551861
+AC-055,British Airways,Boeing 747,Wing Flap Left,Safety,Fair,6789,21:03.9,0.365690355,0,317.1548226
+AC-056,American Airlines,Embraer e175,Wing Flap Right,Support,Good,4275,21:03.9,0.775978563,0,112.0107186
+AC-057,Indigo,Bombardier CRJ,Landing Gear Front,Navigation,Good,1009,21:03.9,0.179851524,0,410.0742379
+AC-058,Air India,Boeing 747,Landing Gear Rear,Support,Good,4335,21:03.9,0.619381046,0,190.309477
+AC-059,Emirates,Airbus A380,Avionics System,Control,Good,4068,21:03.9,0.24013624,0,379.9318802
+AC-060,Spice Jet,Boeing 777,Fuel System,Support,Poor,8749,21:03.9,0.228829084,1,385.5854581
+AC-061,Air Asia,Boeing 777,Hydraulic System,Propulsion,Poor,8136,21:03.9,0.264553056,1,367.723472
+AC-062,Emirates,Airbus A380,Electrical System,Support,Poor,9417,21:03.9,0.35183487,1,324.0825648
+AC-063,British Airways,Airbus A320,Navigation System,Navigation,Fair,4874,21:03.9,0.474736814,0,262.631593
+AC-064,Air India,Airbus A320,Airframe,Propulsion,Good,323,21:03.9,0.706604161,0,146.6979197
+AC-065,Spice Jet,Airbus A320,Nose Cone,Navigation,Good,4118,21:03.9,0.554556288,0,222.7218559
+AC-066,Spice Jet,Embraer e175,Rudder,Safety,Fair,6367,21:03.9,0.192502786,0,403.7486071
+AC-067,Singapore Airlines,ATR 72,Elevator,Control,Fair,9140,21:03.9,0.396278146,0,301.860927
+AC-068,British Airways,Boeing 747,Aileron Left,Support,Poor,482,21:03.9,0.3464005,1,326.79975
+AC-069,British Airways,Airbus A380,Aileron Right,Fuel,Fair,2715,21:03.9,0.159078929,0,420.4605357
+AC-070,Emirates,Boeing 777,Spoilers,Fuel,Good,9937,21:03.9,0.946990542,0,26.50472879
+AC-071,Vistara,Boeing 747,Tail Fin,Safety,Poor,1926,21:03.9,0.22298013,1,388.5099351
+AC-072,Air Asia,Boeing 747,Fuselage,Safety,Fair,5088,21:03.9,0.614032085,0,192.9839576
+AC-073,Etihad,Boeing 747,Engine 1,Support,Good,1847,21:03.9,0.777425234,0,111.2873829
+AC-074,Air Asia,Boeing 737,Engine 2,Support,Poor,5377,21:03.9,0.299707663,1,350.1461683
+AC-075,Singapore Airlines,Boeing 747,Combustor 1,Control,Poor,7726,21:03.9,0.401843837,1,299.0780813
+AC-076,Spice Jet,Boeing 747,Combustor 2,Support,Poor,7003,21:03.9,0.057607236,1,471.1963818
+AC-077,Air Asia,Boeing 747,Turbine 1,Navigation,Poor,5625,21:03.9,0.612837823,1,193.5810887
+AC-078,Air India,Bombardier CRJ,Turbine 2,Control,Fair,5683,21:03.9,0.943088699,0,28.45565034
+AC-079,Indigo,ATR 72,Wing Flap Left,Propulsion,Poor,1045,21:03.9,0.012463888,1,493.7680561
+AC-080,Indigo,Bombardier CRJ,Wing Flap Right,Support,Poor,7476,21:03.9,0.352126038,1,323.9369811
+AC-081,Air India,Airbus A320,Landing Gear Front,Propulsion,Good,5712,21:03.9,0.601789999,0,199.1050005
+AC-082,British Airways,Airbus A320,Landing Gear Rear,Safety,Poor,5124,21:03.9,0.463572955,1,268.2135224
+AC-083,Vistara,Boeing 777,Avionics System,Safety,Poor,6930,21:03.9,0.036370028,1,481.8149862
+AC-084,Spice Jet,Airbus A380,Fuel System,Support,Good,8253,21:03.9,0.962425316,0,18.78734177
+AC-085,Emirates,Bombardier CRJ,Hydraulic System,Fuel,Good,4238,21:03.9,0.432027787,0,283.9861063
+AC-086,Vistara,Airbus A380,Electrical System,Propulsion,Fair,5418,21:03.9,0.283110987,0,358.4445064
+AC-087,Etihad,Boeing 737,Navigation System,Navigation,Good,4231,21:03.9,0.478417618,0,260.7911909
+AC-088,Etihad,Boeing 747,Airframe,Fuel,Fair,8294,21:03.9,0.412520678,0,293.7396608
+AC-089,Air India,Boeing 747,Nose Cone,Propulsion,Good,9875,21:03.9,0.43800989,0,280.9950552
+AC-090,Etihad,Bombardier CRJ,Rudder,Safety,Poor,7280,21:03.9,0.001097026,1,499.4514868
+AC-091,Singapore Airlines,Boeing 747,Elevator,Navigation,Fair,7099,21:03.9,0.249778888,0,375.1105559
+AC-092,Etihad,Embraer e175,Aileron Left,Safety,Poor,5312,21:03.9,0.838725967,1,80.6370164
+AC-093,Indigo,Boeing 747,Aileron Right,Support,Good,5779,21:03.9,0.092070317,0,453.9648414
+AC-094,Indigo,Boeing 737,Spoilers,Propulsion,Fair,9542,21:03.9,0.023276542,0,488.3617289
+AC-095,Indigo,ATR 72,Tail Fin,Safety,Good,3002,21:03.9,0.091459807,0,454.2700967
+AC-096,Indigo,Airbus A320,Fuselage,Support,Poor,6505,21:03.9,0.871679987,1,64.1600063
