@@ -1,0 +1,151 @@
+Part Number,Part Description,Supplier,Country,Quantity in Stock,Cost per Part (USD),Time to Deliver (Hours),Calibration Status,Aircraft Type,Airline,Aircraft Number
+0002-AC108,Engine 1 Turbine,Lockheed Martin,United States,18,25972,35,Unchecked,Boeing 737,Etihad,AC-062
+ER-222,Landing Gear Front,BAE Systems,United States,49,17112,6,Unchecked,Bombardier CRJ,Qatar Airways,AC-023
+BZ-9876,Fuel Injector,Leonardo (Finmeccanica),United States,0,7210,3,Checked,Boeing 747,Vistara,AC-088
+AC-5678,Wing Flap Left,Airbus,United States,42,53820,24,Unchecked,Bombardier CRJ,Emirates,AC-076
+DL-2309,Navigation System,Lockheed Martin,United States,6,31036,33,Checked,Airbus A320,Singapore Airlines,AC-024
+TS-6541,Hydraulic Pump,Airbus,Italy,42,76292,23,Unchecked,Boeing 747,Singapore Airlines,AC-053
+MB-8901,Electrical System Control,Northrop Grumman,United States,49,57683,19,Checked,Bombardier CRJ,Emirates,AC-036
+FR-1287,Avionics Processor,Raytheon Company,United States,27,67176,25,Checked,Embraer e175,Spice Jet,AC-073
+RT-4329,Spoilers Control Unit,Lockheed Martin,United States,23,18138,3,Checked,Airbus A320,Spice Jet,AC-001
+LG-5478,Tail Fin Stabilizer,BAE Systems,Russia,25,80864,19,Unchecked,Boeing 777,Vistara,AC-061
+HY-0987,Fuel System,Leonardo (Finmeccanica),United States,41,13795,8,Unchecked,Boeing 747,British Airways,AC-077
+NV-2345,Rudder Control,Airbus,United Kingdom,20,61013,26,Unchecked,Boeing 747,Air Asia,AC-006
+FL-1209,Combustor Unit,Safran,Germany,14,34418,21,Checked,ATR 72,Indigo,AC-071
+EL-9876,Turbine Blade,United Technologies,France,22,81037,11,Checked,Boeing 777,Air India,AC-063
+WB-8765,Nose Cone Frame,RTX Corporation,Germany,16,84589,7,Unchecked,Bombardier CRJ,Spice Jet,AC-081
+0002-AC108,Engine 1 Turbine,Leonardo (Finmeccanica),Russia,20,41316,14,Checked,Boeing 747,Air Asia,AC-045
+ER-222,Landing Gear Front,United Technologies,United States,46,77589,16,Checked,Bombardier CRJ,Spice Jet,AC-073
+BZ-9876,Fuel Injector,United Technologies,United States,0,77905,17,Unchecked,Bombardier CRJ,Etihad,AC-095
+AC-5678,Wing Flap Left,Raytheon Company,United States,30,58754,32,Unchecked,ATR 72,American Airlines,AC-085
+DL-2309,Navigation System,Leonardo (Finmeccanica),United States,14,96610,18,Unchecked,Boeing 747,Emirates,AC-033
+TS-6541,Hydraulic Pump,Raytheon Company,Italy,41,77258,20,Checked,Boeing 747,Air India,AC-083
+MB-8901,Electrical System Control,Raytheon Company,Germany,28,48271,23,Unchecked,Boeing 747,Etihad,AC-044
+FR-1287,Avionics Processor,RTX Corporation,United States,8,31195,15,Checked,ATR 72,Singapore Airlines,AC-019
+RT-4329,Spoilers Control Unit,Lockheed Martin,United Kingdom,25,82787,24,Unchecked,Airbus A320,Qatar Airways,AC-024
+LG-5478,Tail Fin Stabilizer,Airbus,United States,39,13483,12,Unchecked,Bombardier CRJ,American Airlines,AC-018
+HY-0987,Fuel System,Boeing,United States,49,97815,26,Checked,Boeing 747,Etihad,AC-066
+NV-2345,Rudder Control,Safran,United States,38,78614,22,Unchecked,ATR 72,Air Asia,AC-041
+FL-1209,Combustor Unit,BAE Systems,United Kingdom,33,33339,20,Unchecked,Embraer e175,American Airlines,AC-003
+EL-9876,Turbine Blade,Boeing,France,4,49981,34,Checked,Bombardier CRJ,Singapore Airlines,AC-071
+WB-8765,Nose Cone Frame,Airbus,France,4,30583,34,Unchecked,Airbus A320,Vistara,AC-080
+0002-AC108,Engine 1 Turbine,L3Harris,United States,44,96591,31,Unchecked,Boeing 737,Air India,AC-011
+ER-222,Landing Gear Front,Rolls-Royce Holdings,United States,1,91873,21,Checked,Boeing 747,Indigo,AC-086
+BZ-9876,Fuel Injector,Rolls-Royce Holdings,United Kingdom,3,19260,33,Checked,Boeing 747,Vistara,AC-002
+AC-5678,Wing Flap Left,L3Harris,United Kingdom,19,88713,27,Unchecked,Boeing 737,Air India,AC-008
+DL-2309,Navigation System,Rolls-Royce Holdings,United Kingdom,25,71680,34,Unchecked,Airbus A320,Qatar Airways,AC-024
+TS-6541,Hydraulic Pump,Airbus,United States,33,76103,6,Unchecked,Bombardier CRJ,Air Asia,AC-028
+MB-8901,Electrical System Control,Rostec,United States,9,2264,29,Unchecked,Embraer e175,Emirates,AC-050
+FR-1287,Avionics Processor,Northrop Grumman,France,19,67652,22,Unchecked,Boeing 747,Air Asia,AC-064
+RT-4329,Spoilers Control Unit,L3Harris,United States,26,37954,9,Unchecked,Bombardier CRJ,Spice Jet,AC-060
+LG-5478,Tail Fin Stabilizer,BAE Systems,United States,32,72507,31,Checked,ATR 72,Air Asia,AC-037
+HY-0987,Fuel System,United Technologies,United States,13,14928,12,Checked,Boeing 747,Etihad,AC-025
+NV-2345,Rudder Control,Rostec,Germany,20,64172,8,Unchecked,Bombardier CRJ,British Airways,AC-038
+FL-1209,Combustor Unit,L3Harris,United Kingdom,21,19457,28,Checked,ATR 72,Spice Jet,AC-011
+EL-9876,Turbine Blade,Boeing,Russia,21,9786,9,Unchecked,Airbus A320,Air Asia,AC-027
+WB-8765,Nose Cone Frame,Boeing,United States,23,53246,22,Unchecked,Bombardier CRJ,Spice Jet,AC-012
+0002-AC108,Engine 1 Turbine,Raytheon Company,United States,42,26731,7,Checked,Boeing 737,British Airways,AC-045
+ER-222,Landing Gear Front,Leonardo (Finmeccanica),United States,47,74858,32,Unchecked,Boeing 747,Etihad,AC-059
+BZ-9876,Fuel Injector,Raytheon Company,Russia,37,41669,8,Unchecked,Boeing 747,Indigo,AC-007
+AC-5678,Wing Flap Left,Rostec,United States,31,39481,3,Unchecked,Embraer e175,Air Asia,AC-041
+DL-2309,Navigation System,Lockheed Martin,Italy,48,22355,15,Checked,Boeing 777,Qatar Airways,AC-069
+TS-6541,Hydraulic Pump,United Technologies,Germany,30,40068,12,Unchecked,ATR 72,Emirates,AC-047
+MB-8901,Electrical System Control,Raytheon Company,United States,13,99427,19,Checked,Airbus A320,Etihad,AC-055
+FR-1287,Avionics Processor,Rostec,United States,19,71170,12,Checked,Boeing 737,American Airlines,AC-025
+RT-4329,Spoilers Control Unit,Leonardo (Finmeccanica),United States,7,44230,4,Checked,Airbus A320,Air India,AC-086
+LG-5478,Tail Fin Stabilizer,BAE Systems,Russia,4,73638,25,Checked,Airbus A380,British Airways,AC-038
+HY-0987,Fuel System,L3Harris,United Kingdom,11,56155,9,Checked,Airbus A320,Spice Jet,AC-072
+NV-2345,Rudder Control,BAE Systems,Italy,42,44603,7,Unchecked,Bombardier CRJ,Etihad,AC-055
+FL-1209,Combustor Unit,Boeing,United States,29,18620,31,Checked,ATR 72,Air India,AC-051
+EL-9876,Turbine Blade,Leonardo (Finmeccanica),United States,38,76050,8,Unchecked,Bombardier CRJ,Air Asia,AC-093
+WB-8765,Nose Cone Frame,Raytheon Company,France,11,13382,17,Checked,Airbus A320,Emirates,AC-014
+0002-AC108,Engine 1 Turbine,L3Harris,France,14,53463,34,Checked,Bombardier CRJ,Spice Jet,AC-052
+ER-222,Landing Gear Front,Leonardo (Finmeccanica),United States,48,26470,31,Checked,Airbus A320,Emirates,AC-071
+BZ-9876,Fuel Injector,Airbus,United States,18,75231,10,Checked,Boeing 747,Singapore Airlines,AC-027
+AC-5678,Wing Flap Left,Leonardo (Finmeccanica),Germany,32,51654,30,Checked,Embraer e175,Spice Jet,AC-051
+DL-2309,Navigation System,Lockheed Martin,United Kingdom,32,67140,35,Unchecked,Bombardier CRJ,Air Asia,AC-069
+TS-6541,Hydraulic Pump,Safran,United States,8,72966,5,Checked,Airbus A380,Air India,AC-064
+MB-8901,Electrical System Control,United Technologies,Germany,29,15872,13,Unchecked,Airbus A380,British Airways,AC-087
+FR-1287,Avionics Processor,GE Aerospace,United Kingdom,21,6270,6,Unchecked,Airbus A320,Spice Jet,AC-064
+RT-4329,Spoilers Control Unit,Lockheed Martin,United States,31,6104,15,Checked,Embraer e175,Indigo,AC-082
+LG-5478,Tail Fin Stabilizer,GE Aerospace,United States,34,80765,14,Unchecked,Boeing 747,Air Asia,AC-091
+HY-0987,Fuel System,Leonardo (Finmeccanica),United States,19,48696,28,Unchecked,Bombardier CRJ,Vistara,AC-066
+NV-2345,Rudder Control,Rostec,United Kingdom,1,19009,27,Checked,Airbus A320,Indigo,AC-034
+FL-1209,Combustor Unit,RTX Corporation,United States,31,51934,9,Unchecked,Bombardier CRJ,Indigo,AC-030
+EL-9876,Turbine Blade,Raytheon Company,United States,31,16310,24,Checked,Boeing 737,Vistara,AC-013
+WB-8765,Nose Cone Frame,Leonardo (Finmeccanica),United States,35,62958,14,Unchecked,Bombardier CRJ,British Airways,AC-022
+0002-AC108,Engine 1 Turbine,Boeing,United States,4,31062,7,Checked,Boeing 747,Etihad,AC-052
+ER-222,Landing Gear Front,Rolls-Royce Holdings,Italy,29,34139,21,Checked,Boeing 747,American Airlines,AC-076
+BZ-9876,Fuel Injector,Rostec,United Kingdom,31,52427,26,Unchecked,Airbus A320,British Airways,AC-020
+AC-5678,Wing Flap Left,Safran,United States,17,45666,29,Unchecked,ATR 72,British Airways,AC-045
+DL-2309,Navigation System,Raytheon Company,United Kingdom,39,80181,3,Checked,Boeing 777,Qatar Airways,AC-044
+TS-6541,Hydraulic Pump,Northrop Grumman,United States,42,1484,12,Checked,Airbus A320,Etihad,AC-067
+MB-8901,Electrical System Control,Lockheed Martin,United Kingdom,35,65317,23,Checked,Airbus A320,Spice Jet,AC-093
+FR-1287,Avionics Processor,United Technologies,United States,29,58181,3,Checked,Boeing 737,Air India,AC-066
+RT-4329,Spoilers Control Unit,United Technologies,France,6,97442,10,Checked,Embraer e175,Etihad,AC-057
+LG-5478,Tail Fin Stabilizer,GE Aerospace,United States,12,59136,35,Unchecked,Airbus A320,Air Asia,AC-071
+HY-0987,Fuel System,RTX Corporation,United States,25,7423,35,Checked,ATR 72,Vistara,AC-046
+NV-2345,Rudder Control,Leonardo (Finmeccanica),United Kingdom,20,74736,18,Unchecked,Boeing 737,Air Asia,AC-084
+FL-1209,Combustor Unit,Raytheon Company,United States,45,47952,10,Checked,Boeing 777,British Airways,AC-008
+EL-9876,Turbine Blade,Northrop Grumman,Italy,13,13099,6,Checked,Bombardier CRJ,British Airways,AC-068
+WB-8765,Nose Cone Frame,Rostec,United States,3,25256,4,Unchecked,Airbus A380,Singapore Airlines,AC-070
+0002-AC108,Engine 1 Turbine,Boeing,United States,2,99483,4,Checked,Airbus A380,Qatar Airways,AC-038
+ER-222,Landing Gear Front,Raytheon Company,United States,18,65013,9,Checked,Boeing 777,British Airways,AC-086
+BZ-9876,Fuel Injector,Raytheon Company,United States,32,39317,22,Checked,Boeing 747,Air India,AC-056
+AC-5678,Wing Flap Left,RTX Corporation,United States,5,46886,25,Unchecked,Airbus A320,British Airways,AC-020
+DL-2309,Navigation System,Rolls-Royce Holdings,United Kingdom,30,14883,23,Unchecked,Airbus A320,Indigo,AC-042
+TS-6541,Hydraulic Pump,Safran,United States,10,49566,14,Checked,ATR 72,Vistara,AC-017
+MB-8901,Electrical System Control,L3Harris,United Kingdom,21,28226,29,Unchecked,Airbus A380,Singapore Airlines,AC-062
+FR-1287,Avionics Processor,Rolls-Royce Holdings,United States,27,95940,32,Unchecked,Bombardier CRJ,Air Asia,AC-021
+RT-4329,Spoilers Control Unit,Leonardo (Finmeccanica),United States,27,40667,3,Unchecked,Boeing 777,Air Asia,AC-058
+LG-5478,Tail Fin Stabilizer,Northrop Grumman,United Kingdom,1,6521,24,Checked,Bombardier CRJ,American Airlines,AC-041
+HY-0987,Fuel System,Safran,United States,2,15688,9,Unchecked,Boeing 777,Singapore Airlines,AC-067
+NV-2345,Rudder Control,Rolls-Royce Holdings,United States,0,95095,25,Checked,Airbus A380,American Airlines,AC-027
+FL-1209,Combustor Unit,Rostec,Russia,19,77642,8,Unchecked,Boeing 747,Air India,AC-030
+EL-9876,Turbine Blade,L3Harris,United States,17,65713,25,Unchecked,Airbus A380,Indigo,AC-006
+WB-8765,Nose Cone Frame,Lockheed Martin,United States,48,70876,3,Unchecked,Boeing 747,Spice Jet,AC-032
+0002-AC108,Engine 1 Turbine,L3Harris,United States,44,17128,5,Checked,Boeing 747,Air India,AC-019
+ER-222,Landing Gear Front,Lockheed Martin,Italy,49,40861,34,Unchecked,Boeing 747,Emirates,AC-084
+BZ-9876,Fuel Injector,Boeing,United States,26,33475,28,Checked,Boeing 737,Qatar Airways,AC-039
+AC-5678,Wing Flap Left,Raytheon Company,Italy,34,95157,35,Checked,Airbus A320,Air India,AC-004
+DL-2309,Navigation System,Airbus,United States,13,1434,17,Checked,Boeing 747,Singapore Airlines,AC-028
+TS-6541,Hydraulic Pump,Airbus,United States,7,64955,12,Unchecked,Boeing 747,British Airways,AC-081
+MB-8901,Electrical System Control,GE Aerospace,Germany,41,46905,34,Checked,Airbus A380,American Airlines,AC-065
+FR-1287,Avionics Processor,Lockheed Martin,United States,5,49729,24,Unchecked,Bombardier CRJ,Air Asia,AC-013
+RT-4329,Spoilers Control Unit,Leonardo (Finmeccanica),United States,8,24478,21,Unchecked,Airbus A320,American Airlines,AC-055
+LG-5478,Tail Fin Stabilizer,Rolls-Royce Holdings,United States,2,97754,32,Checked,Boeing 747,American Airlines,AC-054
+HY-0987,Fuel System,Rolls-Royce Holdings,Germany,39,30620,7,Unchecked,Airbus A380,Etihad,AC-072
+NV-2345,Rudder Control,Rolls-Royce Holdings,Russia,37,82278,34,Unchecked,Airbus A380,American Airlines,AC-096
+FL-1209,Combustor Unit,Airbus,Germany,2,75292,17,Checked,Boeing 747,Emirates,AC-008
+EL-9876,Turbine Blade,Lockheed Martin,Russia,41,13945,15,Unchecked,Airbus A380,Air India,AC-048
+WB-8765,Nose Cone Frame,Leonardo (Finmeccanica),Germany,25,43948,11,Checked,Bombardier CRJ,Singapore Airlines,AC-044
+0002-AC108,Engine 1 Turbine,L3Harris,United States,45,41812,3,Checked,Boeing 737,Air Asia,AC-022
+ER-222,Landing Gear Front,Rolls-Royce Holdings,United States,24,89663,13,Unchecked,Boeing 777,Air Asia,AC-065
+BZ-9876,Fuel Injector,RTX Corporation,United States,0,25514,28,Checked,Airbus A320,Air India,AC-016
+AC-5678,Wing Flap Left,L3Harris,United Kingdom,11,24558,25,Unchecked,Boeing 737,Etihad,AC-032
+DL-2309,Navigation System,RTX Corporation,United Kingdom,7,57004,28,Checked,Bombardier CRJ,Etihad,AC-041
+TS-6541,Hydraulic Pump,Rostec,Italy,6,63232,5,Checked,Bombardier CRJ,Spice Jet,AC-031
+MB-8901,Electrical System Control,Lockheed Martin,France,3,89558,4,Unchecked,Bombardier CRJ,Spice Jet,AC-047
+FR-1287,Avionics Processor,Safran,United States,46,71715,33,Checked,Boeing 737,American Airlines,AC-057
+RT-4329,Spoilers Control Unit,Boeing,France,24,27433,12,Unchecked,Airbus A380,Air India,AC-088
+LG-5478,Tail Fin Stabilizer,BAE Systems,United Kingdom,16,26187,13,Unchecked,Boeing 747,American Airlines,AC-043
+HY-0987,Fuel System,GE Aerospace,France,49,78563,3,Checked,ATR 72,Indigo,AC-062
+NV-2345,Rudder Control,Lockheed Martin,France,26,6603,34,Checked,Airbus A380,British Airways,AC-036
+FL-1209,Combustor Unit,United Technologies,United States,2,42738,5,Checked,Airbus A320,Air Asia,AC-082
+EL-9876,Turbine Blade,BAE Systems,United Kingdom,15,61572,26,Checked,ATR 72,Spice Jet,AC-094
+WB-8765,Nose Cone Frame,Raytheon Company,Russia,16,87499,15,Unchecked,Boeing 777,Etihad,AC-060
+0002-AC108,Engine 1 Turbine,Airbus,United States,33,31829,11,Unchecked,Airbus A320,Air India,AC-046
+ER-222,Landing Gear Front,L3Harris,Germany,47,28440,27,Checked,ATR 72,Emirates,AC-038
+BZ-9876,Fuel Injector,RTX Corporation,United States,47,82114,35,Checked,Boeing 777,Singapore Airlines,AC-059
+AC-5678,Wing Flap Left,Safran,France,43,17763,19,Checked,Airbus A380,Singapore Airlines,AC-096
+DL-2309,Navigation System,Airbus,United States,13,50796,11,Checked,Boeing 747,Spice Jet,AC-015
+TS-6541,Hydraulic Pump,Rostec,United States,7,53218,18,Checked,Airbus A380,Indigo,AC-083
+MB-8901,Electrical System Control,Raytheon Company,United States,40,40289,29,Checked,Bombardier CRJ,Air Asia,AC-005
+FR-1287,Avionics Processor,Safran,United States,17,19591,11,Unchecked,Bombardier CRJ,British Airways,AC-039
+RT-4329,Spoilers Control Unit,Raytheon Company,France,2,11951,27,Checked,Boeing 747,Qatar Airways,AC-035
+LG-5478,Tail Fin Stabilizer,GE Aerospace,United States,0,72104,20,Unchecked,Bombardier CRJ,American Airlines,AC-045
+HY-0987,Fuel System,United Technologies,France,41,82290,29,Unchecked,Boeing 737,British Airways,AC-069
+NV-2345,Rudder Control,Northrop Grumman,United States,45,72867,14,Unchecked,ATR 72,Air Asia,AC-008
+FL-1209,Combustor Unit,Safran,United States,39,79245,28,Unchecked,Boeing 747,Air India,AC-064
+EL-9876,Turbine Blade,Boeing,United States,44,10364,28,Checked,Boeing 737,Singapore Airlines,AC-024
+WB-8765,Nose Cone Frame,RTX Corporation,United Kingdom,0,79441,8,Checked,Embraer e175,American Airlines,AC-024
